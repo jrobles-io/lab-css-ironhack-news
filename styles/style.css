@@ -203,16 +203,8 @@ header {
     align-items: center;   
   }
 
-  .main-article .image {
+  .main-article .image, .main-article .content {
     width: 100%;
-    padding: 0 20px;
-    height: auto;
-  }
-
-  .main-article .content {
-    width: 100%;
-    padding: 0 20px;
-    height: auto;
   }
 
   .articles-container {
